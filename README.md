@@ -44,6 +44,7 @@ Python / FastAPI。型による応答検証、未処理区間の明示、APIキ�
 [各作品の見どころ・読む順番](https://github.com/ponponpon888/ponponpon888/blob/main/PORTFOLIO.md#コードと設計を読む)
 
 **その他の公開プロジェクト：**  
+[町工場の見積アシスタント](https://github.com/ponponpon888/mfg-quote-assistant) — 製造業の書類から根拠つきで答え、見積の下書きを作るデモ（[デモを見る](https://mfg-quote-assistant.vercel.app)）  
 [SUMI Guard](https://github.com/ponponpon888/sumi-guard) — 実行イベントとOS観測を照合するローカル監視の試作  
 [SUMI Trade](https://github.com/ponponpon888/sumi-trade) — DEXデータを使った紙上売買の実験
 

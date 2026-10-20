@@ -94,6 +94,7 @@ Python / FastAPI。Webのジョブ管理はインメモリで、デモ・単一�
 
 ### その他の公開プロジェクト
 
+- [町工場の見積アシスタント](https://github.com/ponponpon888/mfg-quote-assistant)：製造業の書類から根拠つきで答え、見積の下書きを作るデモ（[デモを見る](https://mfg-quote-assistant.vercel.app)）。金額の計算はコード側に閉じ、LLMには文面の整形だけをさせています。過去実績の無い部品は単価を作らず「未見積」とし、合計も「未確定」と明示します。認証・DBは未実装で、書類・会社名・図番はすべて架空です。
 - [SUMI Guard](https://github.com/ponponpon888/sumi-guard)：アプリの実行前イベントとOSプロセス観測を照合する監視試作。固定入力での検証、暗号化保存、読み取り専用CLI。常駐監視・感染判定・自動遮断は未実装です。
 - [SUMI Trade](https://github.com/ponponpon888/sumi-trade)：DEXの価格・流動性を扱う紙上売買の実験。詳細はリポジトリを参照してください。
 
