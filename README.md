@@ -1,4 +1,4 @@
-# Shingo Kumon｜公門 慎吾
+# Shingo Kumon（公門 慎吾）
 
 ### AI Product Engineering — 現場の業務課題を、動くサービスに。
 
