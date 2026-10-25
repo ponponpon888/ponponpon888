@@ -35,7 +35,8 @@ Git・CI・Vercel・Supabaseをまたぐ状態管理、完了条件と証跡、�
 
 ### [AI Workforce](https://github.com/ponponpon888/ai-workforce)
 **AIを使った開発の運用ルール・フック・検証キット。**  
-SQL、秘密情報、設定変更、破壊的操作へのガードレールと、止める／通す両方の検証を扱います。公開用に書き起こした構成で、制約と測定結果も掲載しています。
+SQL、秘密情報、設定変更、破壊的操作へのガードレールと、止める／通す両方の検証を扱います。公開用に書き起こした構成で、制約と測定結果も掲載しています。  
+解説記事：[Claude Code の deny を Windows 実機で測ったら、思っていたより効いていなかった（Zenn）](https://zenn.dev/shingokumon/articles/95dff2530556ce)
 
 ### [IRレビュー・翻訳エージェント](https://github.com/ponponpon888/ir-review-agent)
 **数値・用語の検査と、LLMによる文意レビューを分離する文書処理ツール。**  
